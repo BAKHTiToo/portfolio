@@ -1,0 +1,2279 @@
+{
+  "generated": "2026-10-04T17:09:59.225Z",
+  "cases": [
+    {
+      "name": {
+        "en": "Alfa Design Meetup #3",
+        "ru": "Alfa Design Meetup #3"
+      },
+      "order": 1,
+      "published": true,
+      "slug": "meetup3",
+      "year": 2024,
+      "title": {
+        "en": "Alfa Design Meetup #3: Designers Are Punks",
+        "ru": "Alfa Design Meetup #3: дизайнеры это панки"
+      },
+      "oneLiner": {
+        "en": "We crashed the meetup as punks so everyone would know Alfa has designers.",
+        "ru": "Мы влетели на митап панками, чтобы все узнали: у Альфы есть дизайнеры"
+      },
+      "role": {
+        "en": "Alfa-Bank's DevRel team came to me with a meetup about where decorative design meets functional design, and no image for it yet. As art director, I answered with a stance: our designers are punks, a little rude and proud of it, walking into a bank event like a band onto a stage. The red 3D logo I modelled by hand sits buried in a punk pile of chrome spikes and acid blobs, and a LoRA trained on images in the right style turned every speaker into a 3D punk who still recognised their own face. The image landed so well that after the meetup people kept asking for avatars of their own, so the workflow went out for free.",
+        "ru": "DevRel-команда Альфа-Банка пришла ко мне с митапом о том, где декоративный дизайн встречается с функциональным, и образа у него пока не было. Я был арт-директором и ответил позицией: наши дизайнеры это панки, немного дерзкие и гордые этим, они входят на банковское событие, как группа на сцену. Красный 3D-логотип смоделировал руками и утопил в панк-куче из хромовых шипов и кислотных капель, а LoRA, обученная на картинках в нужном стиле, превратила каждого спикера в 3D-панка, который узнаёт своё лицо. Образ попал так точно, что после митапа люди стали просить такие же аватарки себе, и workflow ушёл в открытый доступ бесплатно."
+      },
+      "idea": {
+        "en": "Alfa's designers are the punks among banks. Inside a bank they're easy to overlook, so this time they burst in loud, a little rude and proud of who they are.",
+        "ru": "Дизайнеры Альфы это панки среди банков. В банке их легко не заметить, поэтому на этот раз они ворвались громко, немного дерзко и с гордостью за то, кто они есть."
+      },
+      "visual": {
+        "en": "A glossy red logo buried in a deliberately messy pile: chrome spikes, pixel shards, red wire, acid blobs. Image models couldn't do 3D like this back then, so I let it be bold and a bit garish on purpose. The real anchor is people, with every speaker turned into a 3D punk in one style.",
+        "ru": "Глянцевый красный логотип в нарочно аляпистой куче: хромовые шипы, пиксельные осколки, красная проволока, кислотные капли. Нейронки тогда так не умели, поэтому я позволил себе смело и местами аляписто. Но главный якорь: люди: каждый спикер стал 3D-панком, все в одном стиле."
+      },
+      "process": {
+        "en": [
+          "Posts were already going out before the style existed. My first note in Figma was a tidy \"zone of Alfa spheres\" with mobile, desktop and the design system, and I doubted it even then.",
+          "Then the stance clicked: designers are punks. I built an alphabet for it from sticker cut-outs, pixel scraps, red wire and chrome tattoo spikes, plus one formula for the pile: pixel, geometry, acid blob, spikes, wire.",
+          "Dark chrome on black came first and felt cold and serious. Gold, violet chrome, orange and blue pixels followed until a loud red logo on white won. Image models couldn't build 3D like this back then, so I modelled it myself and kept it bold and a bit garish on purpose.",
+          "People became the second anchor. A LoRA trained on images in the target style, a face lock in ComfyUI, a long run of failed tries, and then all 7 speakers looked at their punk selves and recognised them.",
+          "The punks took over the landing page, the broadcast titles, the poster, badges and a lanyard pattern. After the meetup people kept asking for avatars of their own, so I published the workflow on RunningHub for anyone to use."
+        ],
+        "ru": [
+          "Посты уже выходили, а стиля ещё не было. Первая заметка в Figma была аккуратной «зоной сфер Альфы» с мобилкой, десктопом и дизайн-системой, и уже тогда я в ней сомневался",
+          "Потом щёлкнула позиция: дизайнеры это панки. Под неё собрал алфавит из вырезок стикерпаков, пиксельных шмеков, красных проволочных «соплей» и хромовых тату-шипов и одну формулу кучи: пиксель, геометрия, кислотная капля, шипы, проволока",
+          "Первым был тёмный хром на чёрном, и вышло холодно и серьёзно. Дальше золото, фиолетовый хром, оранжевые и синие пиксели, пока не победил громкий красный логотип на белом. Нейронки такое 3D тогда не тянули, поэтому смоделировал его сам и намеренно оставил смелым и местами аляпистым.",
+          "Вторым якорем стали люди. LoRA на картинках в нужном стиле, фиксация лица в ComfyUI, долгая череда неудачных попыток, и все 7 спикеров узнали себя в панках",
+          "Панки захватили лендинг, титры трансляции, плакат, бейджи и паттерн ланьярда. После митапа люди стали просить такие же аватарки себе, и я выложил workflow на RunningHub бесплатно"
+        ]
+      },
+      "tools": [
+        "Cinema 4D",
+        "Blender",
+        "ComfyUI",
+        "Custom LoRA",
+        "InstantID",
+        "RunningHub",
+        "Figma"
+      ],
+      "facts": [
+        {
+          "label": {
+            "en": "Date",
+            "ru": "Дата"
+          },
+          "value": {
+            "en": "20 Sep",
+            "ru": "20 сентября"
+          }
+        },
+        {
+          "label": {
+            "en": "Venue",
+            "ru": "Место"
+          },
+          "value": {
+            "en": "Artmuza, St Petersburg + online",
+            "ru": "«Артмуза», Санкт-Петербург + онлайн"
+          }
+        },
+        {
+          "label": {
+            "en": "Punk avatars",
+            "ru": "Панк-аватары"
+          },
+          "value": {
+            "en": "7 speakers · 16 in the grid",
+            "ru": "7 спикеров · 16 в сетке"
+          }
+        },
+        {
+          "label": {
+            "en": "Workflow",
+            "ru": "Workflow"
+          },
+          "value": {
+            "en": "Free on RunningHub",
+            "ru": "Открыт на RunningHub"
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Event page",
+            "ru": "Страница события"
+          },
+          "url": "https://digital.alfabank.ru/events/designmeetup3"
+        },
+        {
+          "label": {
+            "en": "NeiroAvatar workflow",
+            "ru": "Workflow NeiroAvatar"
+          },
+          "url": "https://www.runninghub.ai/post/1881292355629195265"
+        },
+        {
+          "label": {
+            "en": "Post about the 3D identity",
+            "ru": "Пост про 3D-айдентику"
+          },
+          "url": "https://t.me/alfadigital_jobs/4653"
+        },
+        {
+          "label": {
+            "en": "Post about the AI avatars",
+            "ru": "Пост про нейроаватары"
+          },
+          "url": "https://t.me/alfadigital_jobs/4675"
+        },
+        {
+          "label": {
+            "en": "My post, a year later",
+            "ru": "Мой пост год спустя"
+          },
+          "url": "https://t.me/vrstmtoo/122"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/01_meetup3/frame-45.webp",
+          "bg": "#FC2424",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "The anchor image, a red logo in a punk pile",
+            "ru": "Якорный образ: красный логотип в панк-куче"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "src": "content/01_meetup3/post-3-punk-avatars-grid16.webp",
+          "bg": "#9C543C",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "16 designers drawn as punks in one style",
+            "ru": "16 дизайнеров в одном панк-стиле"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "src": "content/01_meetup3/speakers-portraits-frame.webp",
+          "bg": "#6C3C24",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Speakers before and after: photo to punk",
+            "ru": "Спикеры до и после: фото и панк"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 754
+        },
+        {
+          "src": "content/01_meetup3/post-2-process-moodboard.webp",
+          "bg": "#CC5454",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Process: forms, references, drafts and the final",
+            "ru": "Процесс: формы, референсы, драфты, финал"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "src": "content/01_meetup3/post-4-badge-lanyard.webp",
+          "bg": "#E42424",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Badge on the punk-pattern lanyard",
+            "ru": "Бейдж на ланьярде с панк-паттерном"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 1600
+        }
+      ],
+      "slider": [
+        {
+          "before": "content/01_meetup3/speaker1-real.webp",
+          "after": "content/01_meetup3/speaker1-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker2-real.webp",
+          "after": "content/01_meetup3/speaker2-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker3-real.webp",
+          "after": "content/01_meetup3/speaker3-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker4-real.webp",
+          "after": "content/01_meetup3/speaker4-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker5-real.webp",
+          "after": "content/01_meetup3/speaker5-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker6-real.webp",
+          "after": "content/01_meetup3/speaker6-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        },
+        {
+          "before": "content/01_meetup3/speaker7-real.webp",
+          "after": "content/01_meetup3/speaker7-punk.webp",
+          "beforeW": 330,
+          "beforeH": 330,
+          "afterW": 330,
+          "afterH": 330
+        }
+      ],
+      "roleTitle": {
+        "en": "Art Director · AI Creator",
+        "ru": "Арт-директор · AI-креатор"
+      },
+      "id": "01_meetup3"
+    },
+    {
+      "name": {
+        "en": "Alfa Design White Night",
+        "ru": "Alfa Design White Night"
+      },
+      "order": 2,
+      "published": true,
+      "slug": "white-night",
+      "year": 2025,
+      "title": {
+        "en": "Alfa Design White Night: Glow",
+        "ru": "Alfa Design White Night: сияй"
+      },
+      "oneLiner": {
+        "en": "People so bright they glow even on a white night.",
+        "ru": "Люди настолько яркие, что сияют даже в белую ночь"
+      },
+      "role": {
+        "en": "The bank's design team was planning a summer party for designers in St Petersburg during the white nights, and there was no image for it yet. As art director, I turned the season itself into a character: a person so bright they glow even on a night that never gets dark. It grew out of a single photo where a flash burns a face into white light. I generated the glowing people myself and brought them to life in more than 15 clips, and those clips did the selling as the teaser, the announcement and the landing page.",
+        "ru": "Дизайн-команда Альфы задумала летнюю вечеринку дизайнеров в Петербурге в белые ночи, и образа у неё пока не было. Я был арт-директором и превратил сам сезон в героя: человека настолько яркого, что он сияет даже в ночь, которая так и не темнеет. Образ вырос из одной фотографии, где вспышка выжигает лицо в белый свет. Сияющих людей сгенерировал сам и оживил в 15+ роликах, и именно они продавали вечеринку: тизер, анонс, лендинг."
+      },
+      "idea": {
+        "en": "Designers are human lighthouses. When the night itself is light, the only thing left to shine is people.",
+        "ru": "Дизайнеры это люди-маяки. Когда светла сама ночь, сиять остаётся только людям."
+      },
+      "visual": {
+        "en": "Figures by the Gulf of Finland with their bodies turned into white light, a searchlight across the sky, cold teal water. It feels like the moment at a party when someone walks in and everyone turns around. Black-and-white graphics, with Alfa red as the only accent.",
+        "ru": "Фигуры у Финского залива, тела превращены в белый свет, по небу бьёт прожектор, вода холодная и бирюзовая. Похоже на момент на вечеринке, когда кто-то входит и все оборачиваются. Графика чёрно-белая, единственный акцент: красный Альфы."
+      },
+      "process": {
+        "en": [
+          "A summer party in the white nights, and no picture of it yet. I put four directions on the board: lighthouses in a white night, light and accents in a darkened hall, a Japanese black-and-white mix, a designer with two faces.",
+          "Lighthouses felt closest, but they stayed beams and diagrams, beautiful and cold. Then I found one photo: a flash burning a face into a white spot. That was it. The light comes out of the person, and the concept got its one word: Shine.",
+          "I generated glowing people on the rocks by the Gulf of Finland, on the pier, behind the DJ decks, and animated them into more than 15 short clips. They did the selling: the teaser, the announcement, the landing page.",
+          "The world kept growing: a speaker made of light talking about exposure, and a 45-minute AI grandpa mumbling memories that never happened on the screens at the party.",
+          "One rule held it all together: black, white and a single Alfa red. The team carried it onto the emoji pack, badges and engraved Alfa cards."
+        ],
+        "ru": [
+          "Летняя вечеринка в белые ночи, и пока никакой картинки. Я вынес на доску четыре направления: маяки в белой ночи, свет и акценты в затемнённом зале, японское смешение чёрного и белого, дизайнер с двумя лицами",
+          "Ближе всего были маяки, но они оставались лучами и схемами, красивыми и холодными. Потом я нашёл одно фото: вспышка выжигает лицо в белое пятно. Вот оно: свет идёт из самого человека, и у концепции появилось одно слово: «Сияй».",
+          "Сгенерировал сияющих людей на камнях у Финского залива, на пирсе, за диджейским пультом и оживил их в 15+ коротких роликов. Продавали именно они: тизер, анонс, лендинг",
+          "Мир продолжал расти: спикер из света с монологом про экспозицию и 45-минутный AI-дед, который на экранах вечеринки бубнит воспоминания, которых никогда не было",
+          "Всё держалось на одном правиле: чёрный, белый и единственный красный Альфы. Команда разнесла его на эмодзи-пак, бейджи и гравировку карт"
+        ]
+      },
+      "tools": [
+        "Krea",
+        "Figma"
+      ],
+      "facts": [
+        {
+          "label": {
+            "en": "Date",
+            "ru": "Дата"
+          },
+          "value": {
+            "en": "4 Jul, 18:00–00:00",
+            "ru": "4 июля, 18:00 – 00:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Venue",
+            "ru": "Место"
+          },
+          "value": {
+            "en": "St Petersburg, secret location",
+            "ru": "Санкт-Петербург, секретная локация"
+          }
+        },
+        {
+          "label": {
+            "en": "Workshops",
+            "ru": "Воркшопы"
+          },
+          "value": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "label": {
+            "en": "Lightning talks",
+            "ru": "Кеча-пуча"
+          },
+          "value": {
+            "en": "20 slides, 20 seconds each",
+            "ru": "20 слайдов по 20 сек"
+          }
+        },
+        {
+          "label": {
+            "en": "AI clips",
+            "ru": "AI-ролики"
+          },
+          "value": {
+            "en": "15+",
+            "ru": "15+"
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Event page",
+            "ru": "Страница события"
+          },
+          "url": "https://digital.alfabank.ru/events/alfa_design_white_night"
+        },
+        {
+          "label": {
+            "en": "Announcement",
+            "ru": "Анонс"
+          },
+          "url": "https://t.me/alfadigital_jobs/5132"
+        },
+        {
+          "label": {
+            "en": "Recap",
+            "ru": "Отчёт"
+          },
+          "url": "https://t.me/alfadigital_jobs/5242"
+        },
+        {
+          "label": {
+            "en": "My announcement",
+            "ru": "Мой анонс"
+          },
+          "url": "https://t.me/vrstmtoo/44"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/02_white-night/0606.mp4",
+          "poster": "content/02_white-night/0606.webp",
+          "bg": "#0C5484",
+          "size": "tall",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "The announcement: a glowing figure on the water",
+            "ru": "Анонс: сияющая фигура на воде"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280
+        },
+        {
+          "src": "content/02_white-night/0602-1-1.mp4",
+          "poster": "content/02_white-night/0602-1-1.webp",
+          "bg": "#245454",
+          "size": "wide",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Three glowing people on the pier",
+            "ru": "Трое сияющих людей на пирсе"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720
+        },
+        {
+          "src": "content/02_white-night/0516-4.mp4",
+          "poster": "content/02_white-night/0516-4.webp",
+          "bg": "#243C54",
+          "size": "square",
+          "grid": false,
+          "hero": 5,
+          "caption": {
+            "en": "\"When the white nights come…\"",
+            "ru": "«Когда наступают белые ночи…»"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/02_white-night/ref-glowing-man-night-windows.webp",
+          "bg": "#543C24",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "The reference: a face burnt out by flash",
+            "ru": "Референс: лицо, выжженное вспышкой"
+          },
+          "type": "image",
+          "w": 720,
+          "h": 1080
+        },
+        {
+          "src": "content/02_white-night/0516-3.mp4",
+          "poster": "content/02_white-night/0516-3.webp",
+          "bg": "#1E4A5C",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "A searchlight cuts across the frame",
+            "ru": "Луч прожектора режет кадр"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720
+        },
+        {
+          "src": "content/02_white-night/0603.mp4",
+          "poster": "content/02_white-night/0603.webp",
+          "bg": "#0C3C54",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "The glowing DJ behind the decks",
+            "ru": "Сияющий диджей за пультом"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 704
+        },
+        {
+          "src": "content/02_white-night/banner-mfc-call-sea-a-1920x1080.webp",
+          "bg": "#6C8484",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Main banner with lettering over the glow",
+            "ru": "Главный баннер: леттеринг поверх свечения"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "src": "content/02_white-night/0714.mp4",
+          "poster": "content/02_white-night/0714.webp",
+          "bg": "#B4CCFC",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "A speaker made entirely of light",
+            "ru": "Спикер, сделанный из света"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280
+        },
+        {
+          "src": "content/02_white-night/telegram-emoji-pack-with-glowing-people.webp",
+          "bg": "#5484B4",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Telegram emoji pack with the glowing people",
+            "ru": "Эмодзи-пак для Telegram с сияющими людьми"
+          },
+          "type": "image",
+          "w": 962,
+          "h": 1466
+        },
+        {
+          "src": "content/02_white-night/logo-graphic-sign-red.webp",
+          "bg": "#FC5454",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Graphic sign in the one accent colour",
+            "ru": "Графический знак в единственном акцентном цвете"
+          },
+          "type": "image",
+          "w": 300,
+          "h": 300
+        },
+        {
+          "src": "content/02_white-night/post-s3-going-beyond-the-usual.webp",
+          "bg": "#FC9C84",
+          "size": "square",
+          "grid": false,
+          "hero": 2,
+          "caption": {
+            "en": "Recap post with glowing lettering on schematics",
+            "ru": "Пост-отчёт: светящийся леттеринг на схемах"
+          },
+          "type": "image",
+          "w": 1000,
+          "h": 1000
+        },
+        {
+          "src": "content/02_white-night/post-s9-memories-in-3-words.webp",
+          "bg": "#FC8484",
+          "size": "square",
+          "grid": false,
+          "hero": 2,
+          "caption": {
+            "en": "\"Bright. Sincere. Informal.\"",
+            "ru": "«Ярко. Искренне. Неформально.»"
+          },
+          "type": "image",
+          "w": 1000,
+          "h": 1000
+        }
+      ],
+      "roleTitle": {
+        "en": "Art Director · AI Creator",
+        "ru": "Арт-директор · AI-креатор"
+      },
+      "id": "02_white-night"
+    },
+    {
+      "name": {
+        "en": "Alfa CTF",
+        "ru": "Альфа ЦТФ"
+      },
+      "order": 3,
+      "published": true,
+      "slug": "ctf",
+      "year": 2026,
+      "title": {
+        "en": "Alfa CTF: The Expedition",
+        "ru": "Альфа ЦТФ: экспедиция"
+      },
+      "oneLiner": {
+        "en": "Hackers are climbers, and last year's surfboard just hangs off their carabiner.",
+        "ru": "Хакеры любят экстрим: прошлогодний серф просто висит у них на карабине"
+      },
+      "role": {
+        "en": "The HR-brand team came to me with this year's Alfa CTF and three conditions: keep last year's surfing spirit, bring something new, and do it fast. As creative and art director, I pitched hackers as climbers, with last year's surfboard simply hanging off their carabiner because they've already moved past that peak. One small object covered the whole brief, and around it I generated the key scenes myself: tents slung between the Moscow City towers and a slackline above the city, all brought to life in Veo. From there the 3D team carried the carabiner onto banners, the site and merch.",
+        "ru": "Команда HR-бренда пришла ко мне с новым Альфа ЦТФ и тремя условиями: сохранить прошлогодний дух серфинга, принести новое и успеть быстро. Я был креативным и арт-директором и предложил образ: хакеры это альпинисты, а прошлогодний серф просто висит у них на карабине, потому что эту вершину они уже прошли. Один маленький предмет закрыл весь бриф, и вокруг него я сам сгенерировал ключевые сцены: палатки между башнями Москва-Сити и слеклайн над городом, всё оживлено в Veo. Дальше 3D-команда разнесла карабин на баннеры, сайт и мерч."
+      },
+      "idea": {
+        "en": "Hackers are extreme people, and every year leaves its gear on their carabiner. The event never starts from zero, it just climbs higher.",
+        "ru": "Хакеры любят экстрим, и каждый год оставляет на их карабине своё снаряжение. ЦТФ не начинается с нуля, он просто забирается выше."
+      },
+      "visual": {
+        "en": "The city turns into mountains. Developers sleep in tents hung between skyscrapers, gear clinks on carabiners, the sky is bright blue. I wanted participants to see themselves as a crew on an expedition. Each year leaves something on the carabiner, so the identity keeps its own history.",
+        "ru": "Город превращается в горы. Разработчики ночуют в палатках между небоскрёбами, снаряжение звенит на карабинах, небо ярко-синее. Хотелось, чтобы участники увидели себя командой в экспедиции. Каждый год оставляет на карабине что-то своё, и у айдентики появляется собственная история."
+      },
+      "process": {
+        "en": [
+          "Three conditions: keep the past, bring something new, move fast. Before generating a single frame, I dictated a long stream of thoughts out loud and fed the model screenshots of everything the project already had.",
+          "My first bold route was Dreamers, hackers as superheroes, next to Balancers and Secret Society. The idea needed to come down to earth, and gorpcore did it: after a tech meetup you can be in the Karelian mountains within a day, and cybersecurity takes the same nerve.",
+          "A moodboard of Patagonia posters, climbers and keys on carabiners set the feeling. Then came round after round of 10–15 prompts and a lot of trial and error, until last year's surfboard with CTF on it hung off a carabiner. I sent it to the team with one question: \"Is this it?\"",
+          "It looked almost too simple, and it met every condition at once. So I put the hackers inside the story: tents slung between the Moscow City towers, developers with laptops on ropes, a slackline with the Alfa CTF flag. Veo brought the scenes to life, and the final clips went up on the screens at the event.",
+          "The carabiner grew into a world. Once the team approved it for the Telegram branding, I tied the whole channel up in one continuous rope that climbs to the logo and made a participant kit with sliders for sleep, vibe and hacking.",
+          "The 3D team carried the object onto banners, the site and merch, and the identity got a memory: each year can leave something new on the carabiner."
+        ],
+        "ru": [
+          "Три условия: сохранить прошлое, принести новое, успеть быстро. Прежде чем генерировать хоть один кадр, надиктовал вслух длинный поток мыслей и скормил модели скриншоты всего, что уже было у проекта",
+          "Первым смелым маршрутом были «Мечтатели», хакеры как супергерои, рядом «Балансеры» и «Тайное сообщество». Идею нужно было приземлить, и это сделал горпкор: после айтишного митапа можно за сутки оказаться в горах Карелии, а кибербезопасность требует той же смелости.",
+          "Мудборд с постерами Patagonia, альпинистами и ключами на карабинах задал ощущение. Дальше заход за заходом по 10–15 промптов и много проб и ошибок, пока прошлогодний серф с надписью «ЦТФ» не повис на карабине. Отправил команде с одним вопросом: «Оно?»",
+          "Выглядело почти слишком просто, и при этом закрывало все условия сразу. Тогда я поместил хакеров внутрь истории: палатки между башнями Москва-Сити, разработчики с ноутбуками на тросах, слеклайн с флагом Альфа ЦТФ. Сцены оживил в Veo, а финальные ролики пошли на экраны мероприятия.",
+          "Карабин вырос в мир. Когда команда одобрила его для брендинга Telegram, я обвязал весь канал одной непрерывной верёвкой до самого логотипа и собрал набор участника со шкалами сна, вайбовости и хакерности",
+          "3D-команда разнесла объект на баннеры, сайт и мерч, и у айдентики появилась память: каждый год может оставить на карабине что-то новое"
+        ]
+      },
+      "epilogue": {
+        "en": "Six months later I rebuilt the carabiner in Blender. An AI agent modelled and animated it under my direction in a few hours, and this time it's a real 3D scene where I control the light and camera.",
+        "ru": "Через полгода я пересобрал карабин в Blender. AI-агент смоделировал и анимировал его по моему арт-дирекшену за несколько часов. Теперь это настоящая 3D-сцена, где я управляю светом и камерой."
+      },
+      "tools": [
+        "Nano Banana Pro",
+        "Whisper",
+        "Veo",
+        "Upscayl",
+        "Figma",
+        "Blender + Claude Opus (epilogue)"
+      ],
+      "facts": [
+        {
+          "label": {
+            "en": "Teams",
+            "ru": "Команд"
+          },
+          "value": {
+            "en": "513, up from 348 last year",
+            "ru": "513, годом раньше 348"
+          }
+        },
+        {
+          "label": {
+            "en": "Venues",
+            "ru": "Площадки"
+          },
+          "value": {
+            "en": "4 cities + online",
+            "ru": "4 города + онлайн"
+          }
+        },
+        {
+          "label": {
+            "en": "Date",
+            "ru": "Дата"
+          },
+          "value": {
+            "en": "25 Apr",
+            "ru": "25 апреля"
+          }
+        },
+        {
+          "label": {
+            "en": "Prize pool",
+            "ru": "Призовой фонд"
+          },
+          "value": {
+            "en": "₽3.1M",
+            "ru": "3,1 млн ₽"
+          }
+        },
+        {
+          "label": {
+            "en": "Prompts per round",
+            "ru": "Промптов на заход"
+          },
+          "value": {
+            "en": "10–15",
+            "ru": "10–15"
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Event site",
+            "ru": "Сайт турнира"
+          },
+          "url": "https://alfactf.ru/"
+        },
+        {
+          "label": {
+            "en": "CTFtime: this edition",
+            "ru": "CTFtime: этот турнир"
+          },
+          "url": "https://ctftime.org/event/3250"
+        },
+        {
+          "label": {
+            "en": "CTFtime: last year's edition",
+            "ru": "CTFtime: прошлый турнир"
+          },
+          "url": "https://ctftime.org/event/2935"
+        },
+        {
+          "label": {
+            "en": "My post about the process",
+            "ru": "Мой пост о процессе"
+          },
+          "url": "https://t.me/vrstmtoo/161"
+        },
+        {
+          "label": {
+            "en": "The carabiner in Blender",
+            "ru": "Карабин в Blender"
+          },
+          "url": "https://t.me/vrstmtoo/169"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/03_ctf/deck-4-blue-key-visual.webp",
+          "bg": "#3C84FC",
+          "size": "wide",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "The anchor: last year's gear on a carabiner",
+            "ru": "Якорь: прошлогодние вещи на карабине"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "src": "content/03_ctf/climb-flag.mp4",
+          "bg": "#243C6C",
+          "size": "tall",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Hackers on a slackline above Moscow City",
+            "ru": "Хакеры на слеклайне над Москва-Сити"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280,
+          "poster": "content/03_ctf/climb-flag-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/climb-a.mp4",
+          "bg": "#2C4470",
+          "size": "tall",
+          "grid": true,
+          "hero": 4,
+          "caption": {
+            "en": "Selfie from the roof, flag in the wind",
+            "ru": "Селфи с крыши, флаг на ветру"
+          },
+          "type": "video",
+          "w": 714,
+          "h": 1280,
+          "poster": "content/03_ctf/climb-a-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/climb-b.mp4",
+          "bg": "#2C4470",
+          "size": "tall",
+          "grid": true,
+          "hero": 4,
+          "caption": {
+            "en": "A hammock between towers, code in laps",
+            "ru": "Гамак между башнями, код на коленях"
+          },
+          "type": "video",
+          "w": 714,
+          "h": 1280,
+          "poster": "content/03_ctf/climb-b-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/vrstmtoo-161-v02.mp4",
+          "poster": "content/03_ctf/tents.webp",
+          "bg": "#2C4470",
+          "size": "tall",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Coding in tents between skyscrapers",
+            "ru": "Код в палатках между небоскрёбами"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280
+        },
+        {
+          "src": "content/03_ctf/deck-5-object-set-carabiner-surf.webp",
+          "bg": "#E43C3C",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "One object kit for every format",
+            "ru": "Один набор объектов для всех носителей"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "src": "content/03_ctf/vrstmtoo-161-v01.mp4",
+          "poster": "content/03_ctf/kit.webp",
+          "bg": "#E40C0C",
+          "size": "wide",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Participant kit: sleep, flags, hacking",
+            "ru": "Набор участника: сон, флаги, хакерство"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 640
+        },
+        {
+          "src": "content/03_ctf/avatar-1.mp4",
+          "poster": "content/03_ctf/logo-d.webp",
+          "bg": "#549CE4",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Channel avatar: the logo tied in rope",
+            "ru": "Аватар канала: логотип в верёвочной связке"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/03_ctf/vrstmtoo-169-v01.mp4",
+          "poster": "content/03_ctf/blender-carabiner.webp",
+          "bg": "#3A7AE8",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Epilogue: the carabiner rebuilt in Blender",
+            "ru": "Эпилог: карабин, пересобранный в Blender"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280
+        },
+        {
+          "src": "content/03_ctf/no-laptop.mp4",
+          "bg": "#C0332B",
+          "size": "tall",
+          "grid": true,
+          "hero": 3,
+          "caption": {
+            "en": "The same spirit on skateboards",
+            "ru": "Тот же дух, только на скейтах"
+          },
+          "type": "video",
+          "w": 714,
+          "h": 1280,
+          "poster": "content/03_ctf/no-laptop-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/promo.mp4",
+          "bg": "#D9B98A",
+          "size": "tall",
+          "grid": true,
+          "hero": 3,
+          "caption": {
+            "en": "Alfa CTF flag in a skate bowl",
+            "ru": "Флаг Альфа CTF в скейт-боуле"
+          },
+          "type": "video",
+          "w": 714,
+          "h": 1280,
+          "poster": "content/03_ctf/promo-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/coder-beach.mp4",
+          "bg": "#3E6E8E",
+          "size": "wide",
+          "grid": true,
+          "hero": 3,
+          "caption": {
+            "en": "Coding in the surf: work does not wait",
+            "ru": "Код прямо в прибое: работа не ждёт"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720,
+          "poster": "content/03_ctf/coder-beach-poster.webp"
+        },
+        {
+          "src": "content/03_ctf/surf-sky.mp4",
+          "bg": "#8FA3B3",
+          "size": "wide",
+          "grid": true,
+          "hero": 3,
+          "caption": {
+            "en": "Surfers tangled in cables",
+            "ru": "Сёрферы, запутавшиеся в проводах"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720,
+          "poster": "content/03_ctf/surf-sky-poster.webp"
+        }
+      ],
+      "roleTitle": {
+        "en": "Creative & Art Director · AI Creator",
+        "ru": "Креативный и арт-директор · AI-креатор"
+      },
+      "id": "03_ctf"
+    },
+    {
+      "name": {
+        "en": "Alfa Base Camp",
+        "ru": "Альфа Базовый лагерь"
+      },
+      "order": 4,
+      "published": true,
+      "year": 2026,
+      "slug": "base-camp",
+      "title": {
+        "en": "Alfa-Future Base Camp: Built From What's at Hand",
+        "ru": "Альфа-Будущее Базовый лагерь: из подручных средств"
+      },
+      "oneLiner": {
+        "en": "Find the trail, find yourself.",
+        "ru": "Ищешь путь, находишь себя"
+      },
+      "role": {
+        "en": "The Alfa-Future team came to me with Base Camp, a two-month career challenge for students where you win by cooperating, and it had no visual world yet. As art director, I found that world in a hike: you set out looking for the trail and find yourself and your people along the way. I sold the idea through childhood, when we all wanted to be heroes and really just wanted to leave a mark, then defended it round after round with marketing until it found its final form in soft 3D. Every object, from the compass and the map to the stones and the rope, I generated myself and packed into a kit, so the team could build any poster without me.",
+        "ru": "Команда Альфа-Будущего пришла ко мне с Базовым лагерем, двухмесячным карьерным челленджем для студентов, где выигрывают кооперацией, и визуального мира у него ещё не было. Я был арт-директором и нашёл этот мир в походе: ищешь тропу, а по дороге находишь себя и своих людей. Продал идею через детство, когда все хотели стать героями, а на самом деле просто оставить след, и защищал её круг за кругом с маркетингом, пока она не обрела финальную форму в мягком 3D. Компас, карту, камни и верёвку сгенерировал сам и упаковал в набор, из которого команда собирает любой постер без меня."
+      },
+      "idea": {
+        "en": "As kids we all wanted to be heroes, when what we really wanted was to leave a mark. Base Camp is a hike where you leave that mark together, like a trail.",
+        "ru": "В детстве все хотели стать героями, а на самом деле хотели оставить след. Базовый лагерь это поход, где этот след прокладывают вместе, как тропу."
+      },
+      "visual": {
+        "en": "A blue compass in the middle, and around it things from any backpack: a crumpled map with a route, rope, climbing holds, a smiley as a checkpoint. Everything lies on a contour map under a red patch, like a badge you sew on after a trip. Soft and tactile, so you want to pick it up.",
+        "ru": "В центре синий компас, вокруг то, что лежит в любом рюкзаке: смятая карта с маршрутом, верёвка, зацепы, смайлик-чекпоинт. Всё на контурной карте под красной нашивкой, как шеврон, который пришиваешь после похода. Мягко и тактильно, хочется взять в руки."
+      },
+      "process": {
+        "en": [
+          "I pitched it through childhood: we all wanted to be heroes, and what we really wanted was to leave a mark. Scout patches and biker vests turned that into a language of badges, small signs that you belong to your crew.",
+          "The first route was handmade. Scraps of paper look random on their own and become a picture together, like a team, so I trained a model on handmade posters and built the concept deck around it.",
+          "Marketing praised it and pushed back, round after round. I cleaned up the model, weighed black against light blue, ran the collage from heavy to barely there. Then the verdict: childish, a bit grubby, too flat, and the site takes 3D only. The collage was out.",
+          "The idea stayed, and the world was rebuilt in soft 3D gorpcore. The badge, keyboard and puzzle from the first drafts went, and only what you'd really pack for a hike remained: stones, rope, a map and, among them, a compass.",
+          "One master shot became a whole kit: the same objects split out under the same light, then cut into stickers and emoji packs so the team could make any post without me. One rule for every frame with people: always a group, because it's a camp.",
+          "After the camp the story came back to the hands. I built the recap slides around the fact that everything at Base Camp was made by hand, fast and from whatever was around, like a real tent camp."
+        ],
+        "ru": [
+          "Продавал концепцию через детство: все хотели стать героями, а на самом деле оставить след. Скаутские нашивки и байкерские жилеты превратили это в язык знаков, маленьких символов того, что ты свой",
+          "Первый маршрут был рукотворным. Обрывки бумаги по отдельности выглядят случайно, а вместе складываются в картину, как команда, поэтому я обучил модель на хендмейд-постерах и собрал вокруг неё презентацию концепции",
+          "Маркетинг хвалил и ругал, круг за кругом. Я чистил модель, сравнивал чёрный фон с голубым, гонял коллаж от сильного до почти незаметного. Потом вердикт: детско, грязновато, слишком плоско, а для сайта нужно только 3D. Коллаж отмели.",
+          "Идею оставил, а мир пересобрал в мягком 3D-горпкоре. Из первых черновиков ушли бейдж, клавиатура и пазл, осталось то, что берут в настоящий поход: камни, верёвка, карта и среди прочего компас",
+          "Одна мастер-композиция превратилась в целый набор: те же объекты по отдельности с тем же светом, стикеры и эмодзи-паки, чтобы команда оформляла любой пост без меня. Для кадров с людьми одно правило: всегда группа, это же лагерь",
+          "После лагеря история вернулась к рукам. Слайды для итогов собрал вокруг того, что в Базовом лагере всё делали руками, быстро и из подручных средств, как в настоящем палаточном лагере"
+        ]
+      },
+      "tools": [
+        "GPT Image",
+        "Custom model (handmade posters)",
+        "Codex",
+        "Figma"
+      ],
+      "toolsNote": {
+        "en": "AI: the master composition and every 3D object come from GPT Image, cleaned up and split by hand. The first route used a model I trained on handmade posters. By hand: concept, pitch, moodboards, selection, layouts and the sticker pack in Figma.",
+        "ru": "AI: мастер-композиция и все 3D-объекты: генерации GPT Image, почищенные и разобранные вручную. Первый заход на модели, которую я натренировал на хендмейд-постерах. Руками: концепция, питч, мудборды, отбор, вёрстка и стикерпак в Figma."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Finalists",
+            "ru": "Финалистов"
+          },
+          "value": "60"
+        },
+        {
+          "label": {
+            "en": "Team sprints",
+            "ru": "Командных спринтов"
+          },
+          "value": "5"
+        },
+        {
+          "label": {
+            "en": "Hikes: Karelia and Tver",
+            "ru": "Похода: Карелия и Тверь"
+          },
+          "value": "2"
+        },
+        {
+          "label": {
+            "en": "Travel grants",
+            "ru": "Тревел-грантов"
+          },
+          "value": "6"
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Event site",
+            "ru": "Сайт события"
+          },
+          "url": "https://alfabank.ru/alfafuture/event/basecamp/"
+        },
+        {
+          "label": {
+            "en": "Launch post",
+            "ru": "Анонс"
+          },
+          "url": "https://t.me/alfafuture/2666"
+        },
+        {
+          "label": {
+            "en": "Event moment (video)",
+            "ru": "Момент с ивента (видео)"
+          },
+          "url": "https://t.me/alfafuture/2690"
+        },
+        {
+          "label": {
+            "en": "Photos from the event",
+            "ru": "Фотографии с ивента"
+          },
+          "url": "https://t.me/alfafuture/2858"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/04_camp/post-1080-final.webp",
+          "bg": "#F8F2F2",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Final post: patch, compass and kit on a map",
+            "ru": "Финальный пост: шеврон, компас и вещи на карте"
+          },
+          "type": "image",
+          "w": 1080,
+          "h": 1080
+        },
+        {
+          "src": "content/04_camp/00-backpack.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "The hiker's backpack, packed and ready",
+            "ru": "Рюкзак туриста, собранный в путь"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/00-checklist.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "A checklist, a pen and a compass for the route",
+            "ru": "Чек-лист, ручка и компас для маршрута"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/00-map-compass-tent.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "Map, compass, tent and rope, the camp in one scene",
+            "ru": "Карта, компас, палатка и верёвка: лагерь в одной сцене"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/00-map-mountain.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "A map and a mountain to climb",
+            "ru": "Карта и гора, на которую поднимаемся"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/01-kit.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "The whole kit together",
+            "ru": "Весь набор вместе"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/02-map.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "The map you search yourself on",
+            "ru": "Карта, на которой ищешь себя"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/03-compass.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "The compass",
+            "ru": "Компас"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/04-pebbles.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "Stones for the climb",
+            "ru": "Камни для подъёма"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/06-smiley.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "The smiley, the camp's mood",
+            "ru": "Смайл, настроение лагеря"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/07-rope.webp",
+          "bg": "#EDEBE6",
+          "size": "square",
+          "hero": 4,
+          "group": "objects",
+          "caption": {
+            "en": "Rope",
+            "ru": "Верёвка"
+          },
+          "type": "image",
+          "w": 1254,
+          "h": 1254
+        },
+        {
+          "src": "content/04_camp/alfafuture-2690.mp4",
+          "poster": "content/04_camp/alfafuture-2690-poster.webp",
+          "bg": "#E9ECEF",
+          "size": "square",
+          "hero": 4,
+          "caption": {
+            "en": "From the event: the camp coming alive",
+            "ru": "С ивента: лагерь оживает"
+          },
+          "type": "video",
+          "w": 512,
+          "h": 512
+        },
+        {
+          "src": "content/04_camp/sticker-pack-telegram.webp",
+          "bg": "#2B3338",
+          "size": "square",
+          "hero": 4,
+          "caption": {
+            "en": "Alfa Base Camp sticker pack, made for the event",
+            "ru": "Стикерпак Alfa Base Camp, сделанный специально для ивента"
+          },
+          "type": "image",
+          "w": 944,
+          "h": 796
+        }
+      ],
+      "roleTitle": {
+        "en": "Art Director · AI Creator",
+        "ru": "Арт-директор · AI-креатор"
+      },
+      "id": "04_camp"
+    },
+    {
+      "name": {
+        "en": "AlfaGen Vibecoding",
+        "ru": "AlfaGen Vibecoding"
+      },
+      "order": 5,
+      "published": true,
+      "year": 2026,
+      "slug": "vibecoding",
+      "title": {
+        "en": "AlfaGen Vibecoding: Thought Becomes Product",
+        "ru": "AlfaGen Vibecoding: мысль становится продуктом"
+      },
+      "oneLiner": {
+        "en": "Now it takes one conversation to get from a thought to a product.",
+        "ru": "Между мыслью и результатом теперь один диалог"
+      },
+      "role": {
+        "en": "The bank's events and marketing team came to me with two events about vibe coding on the AlfaGen platform, a hackathon and a meetup, and no picture for them yet. As art director, I started with a manifesto: between a thought and a result there is now one dialogue. Everything grew from that idea: the red wave that carries it, a coder sitting calmly inside his own thought, both sites, the merch and the opening film that reads the manifesto aloud. That is why the hackathon and the meetup feel like one world.",
+        "ru": "Команда ивентов и маркетинга банка пришла ко мне с двумя событиями про вайбкодинг на платформе AlfaGen, хакатоном и митапом, и образа у них пока не было. Я был арт-директором и начал с манифеста: между мыслью и результатом теперь один диалог. Из этой идеи выросло всё остальное: красная волна, которая её несёт, кодер, спокойно сидящий внутри собственной мысли, оба сайта, мерч и открывающий ролик, который читает манифест вслух. Поэтому хакатон и митап ощущаются одним миром."
+      },
+      "idea": {
+        "en": "Everything starts with a thought. Today you can say an idea out loud, as to a friend, and the dialogue becomes the interface. The main product of this era is the person with the idea.",
+        "ru": "Всё начинается с мысли. Сегодня идею можно произнести вслух, как другу, и диалог становится интерфейсом. Главный продукт этой эпохи: человек со своей идеей."
+      },
+      "visual": {
+        "en": "Black, chrome and a lot of Alfa red. A person with a laptop sits still while a red wave, his voice and his thought, loops around him and turns into a cursor, a microphone, a frame. I left out interface screenshots on purpose, because the wave is enough.",
+        "ru": "Чёрный, хром и много красного Альфы. Человек с ноутбуком сидит спокойно, а вокруг закручивается красная волна, его голос и мысль, и превращается в курсор, микрофон, рамку. Скриншоты интерфейсов убрал специально, волны достаточно."
+      },
+      "process": {
+        "en": [
+          "I wrote the manifesto first: a thought, a dialogue, an interface, a result. The red wave became the thread that carries it.",
+          "The first references were all screens and UI. They felt cold, so I dropped them and put a person at the centre.",
+          "The key frame is a coder in an armchair inside red rings, calm, with a mic and a cursor floating around him. It opened the hackathon site.",
+          "For the meetup I kept the same hero, handed him a microphone and sat the audience on chrome waves, so the two events feel like one world.",
+          "Then the manifesto got a voice: an opening film built from a library of Midjourney frames, with a red line as the through-character. The merch followed the same idea, red Alfa cards with lines like \"Approved by vibe\"."
+        ],
+        "ru": [
+          "Сначала написал манифест: мысль, диалог, интерфейс, результат. Красная волна стала нитью, которая его несёт",
+          "Первые референсы были сплошь про экраны и UI. Это казалось холодным, поэтому я убрал их и поставил в центр человека",
+          "Ключевой кадр: кодер в кресле внутри красных колец, спокойный, вокруг парят микрофон и курсор. С него начинался сайт хакатона",
+          "Для митапа оставил того же героя, дал ему микрофон, а зрителей усадил на хромированные волны, чтобы два события ощущались одним миром",
+          "Потом манифест получил голос: открывающий ролик из библиотеки кадров Midjourney, где красная линия сквозной герой. Мерч пошёл за той же идеей, красные карты Альфы с надписями вроде «Approved by vibe»"
+        ]
+      },
+      "tools": [
+        "GPT Image",
+        "Midjourney",
+        "HeyGen HyperFrames",
+        "GSAP",
+        "After Effects",
+        "Codex",
+        "Claude Code",
+        "Figma"
+      ],
+      "toolsNote": {
+        "en": "AI: key visuals and all the chrome and red objects are GPT Image. Midjourney gave the film its frame library. Codex and Claude Code ran the prompt banks and built the film in code. By hand: concept, script, selection, site and merch layouts, the final edit.",
+        "ru": "AI: ключевые визуалы и все хромово-красные объекты: GPT Image. Midjourney дал библиотеку кадров для ролика. Codex и Claude Code вели промпт-банки и собрали ролик кодом. Руками: концепция, сценарий, отбор, вёрстка сайтов и мерча, финальный монтаж."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Prize fund",
+            "ru": "Призовой фонд"
+          },
+          "value": "2 300 000 ₽"
+        },
+        {
+          "label": {
+            "en": "Days to build a prototype",
+            "ru": "Дня на прототип"
+          },
+          "value": "2"
+        },
+        {
+          "label": {
+            "en": "People per team",
+            "ru": "Человек в команде"
+          },
+          "value": "1–4"
+        },
+        {
+          "label": {
+            "en": "Meetup announcement views",
+            "ru": "Просмотров анонса митапа"
+          },
+          "value": "12.4K"
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Hackathon site",
+            "ru": "Сайт хакатона"
+          },
+          "url": "https://alfabank.ru/alfadigital/vibecoding-hackathon/"
+        },
+        {
+          "label": {
+            "en": "Meetup site",
+            "ru": "Сайт митапа"
+          },
+          "url": "https://alfabank.ru/alfadigital/vibecoding-meetup/"
+        },
+        {
+          "label": {
+            "en": "Announcement",
+            "ru": "Анонс"
+          },
+          "url": "https://t.me/alfadigital_jobs/6420"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/05_vibecoding/film-alfagen-vibecoding.mp4",
+          "poster": "content/05_vibecoding/film-alfagen-vibecoding-poster.webp",
+          "bg": "#120606",
+          "size": "wide",
+          "hero": 5,
+          "film": true,
+          "grid": true,
+          "caption": {
+            "en": "The opening film, full version",
+            "ru": "Открывающий ролик, полная версия"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720
+        }
+      ],
+      "roleTitle": {
+        "en": "Art Director · AI Creator",
+        "ru": "Арт-директор · AI-креатор"
+      },
+      "inProgress": true,
+      "epilogue": {
+        "en": "The project is still being packaged, so this case will keep growing.",
+        "ru": "Проект ещё упаковывается, поэтому кейс будет пополняться."
+      },
+      "epilogueLabel": {
+        "en": "Still in progress",
+        "ru": "Ещё в работе"
+      },
+      "id": "05_vibecoding"
+    },
+    {
+      "name": {
+        "en": "Alfa Design Network",
+        "ru": "Alfa Design Network"
+      },
+      "order": 6,
+      "published": true,
+      "year": 2025,
+      "slug": "design-network",
+      "title": {
+        "en": "Alfa Design Network: We're All Mushrooms",
+        "ru": "Alfa Design Network: мы все грибы"
+      },
+      "oneLiner": {
+        "en": "Different caps, one network underneath.",
+        "ru": "Шляпки разные, грибница одна"
+      },
+      "role": {
+        "en": "A fellow designer came up with an internal meetup to bring the bank's scattered designers together, and the visual side was mine. As the AI creator, I walked onto the call with one line: we're all mushrooms. In a big bank designers sit in different teams and never see each other, yet underground they're one mycelium. To keep that image tender and far from psychedelia, I trained a LoRA on about 200 references, grew a family of glowing glass mushrooms and brought it to life across the announcements, speaker slides and Zoom backgrounds.",
+        "ru": "Коллега-дизайнер придумал внутренний митап, чтобы собрать разрозненных дизайнеров банка, а визуальная сторона досталась мне. Я был AI-креатором и пришёл на созвон с одной фразой: «Мы все грибы». В большом банке дизайнеры сидят по разным командам и не видят друг друга, а под землёй они одна грибница. Чтобы образ вышел нежным и далёким от психоделии, обучил LoRA примерно на 200 референсах, вырастил семейство светящихся стеклянных грибов и оживил его в анонсах, презентациях спикеров и фонах для Zoom."
+      },
+      "idea": {
+        "en": "We're all mushrooms. Above ground we can't see each other, underground we're one mycelium, and the meetup is how it swaps signals.",
+        "ru": "Мы все грибы. Над землёй друг друга не видно, под землёй мы одна грибница, а митап это способ этой грибнице обмениваться сигналами."
+      },
+      "visual": {
+        "en": "Small glass mushrooms glowing from inside, held together by thin threads of mycelium, on soft moss and deep black. Pink and coral caps nod to Alfa red. Calm and tender, the kind of picture you want to look at a little longer.",
+        "ru": "Маленькие стеклянные грибы светятся изнутри, их связывают тонкие нити грибницы, вокруг мягкий мох и глубокий чёрный. Розовые и коралловые шляпки отсылают к красному Альфы. Спокойно и нежно, на такую картинку хочется смотреть подольше."
+      },
+      "process": {
+        "en": [
+          "A colleague wrote the meetup, and I came to the call with one line: \"Guys, we're all mushrooms. Let's build the concept around that.\" The answer was \"let's go\".",
+          "Then the limits: calm, tender, nothing that reads as drugs. Three directions went on the table: translucent mushrooms on moss, crystal ones on wood, and a bionic thing that is mushroom and mycelium at once.",
+          "About 200 references of delicate mushrooms, flowers and porcelain corals became a LoRA in Krea, so every new mushroom grew from one family. The family took translucency and moss from the first direction and the glassy shine from the second.",
+          "The hardest part was staying out of techno-rave-on-acid territory. Only the frames that read as a metaphor about people survived.",
+          "Then the mushrooms started to breathe: short animated loops, announcements in every format, speaker slides and Zoom backgrounds. The network was there before anyone walked into the room.",
+          "A year later the style is still open in Krea, so anyone can grow mushrooms of their own."
+        ],
+        "ru": [
+          "Митап расписал коллега, а я пришёл на созвон с одной фразой: «Ребята, мы все грибы. Давайте строить вокруг этого концепт». Ответ был: «Погнали».",
+          "Потом рамки: спокойно, нежно, ничего, что читается как запрещённое. На стол легли три направления: полупрозрачные грибы на мху, хрустальные на дереве и бионическая штука, которая одновременно гриб и грибница",
+          "Около 200 референсов с нежными грибами, цветами и фарфоровыми кораллами превратились в LoRA в Krea, чтобы каждый новый гриб рос из одной семьи. От первого направления семья взяла прозрачность и мох, от второго стеклянный блеск",
+          "Самое сложное: не уйти в «технорейв под кислотой». Выжили только кадры, которые читаются как метафора про людей",
+          "Потом грибы задышали: короткие анимированные петли, анонсы во всех форматах, слайды спикеров и фоны для Zoom. Грибница чувствовалась ещё до того, как кто-то вошёл в зал",
+          "Спустя год стиль всё ещё открыт в Krea, и любой может вырастить своих грибов"
+        ]
+      },
+      "tools": [
+        "Krea",
+        "Custom LoRA",
+        "Figma"
+      ],
+      "toolsNote": {
+        "en": "AI: every mushroom is Krea with my LoRA trained on about 200 references. No 3D, the glass and glow come from the LoRA. By hand: art direction, dataset, selection, type and layouts.",
+        "ru": "AI: все грибы: Krea и моя LoRA на ~200 референсах. 3D нет, стекло и свечение дала LoRA. Руками: арт-дирекшн, датасет, отбор, типографика и вёрстка."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Date",
+            "ru": "Дата"
+          },
+          "value": "25.03"
+        },
+        {
+          "label": {
+            "en": "Cities: Moscow and St Petersburg",
+            "ru": "Города: Москва и Петербург"
+          },
+          "value": "2"
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "My post about the visuals",
+            "ru": "Мой пост о визуалах"
+          },
+          "url": "https://t.me/vrstmtoo/142"
+        },
+        {
+          "label": {
+            "en": "Try the LoRA in Krea",
+            "ru": "Попробовать LoRA в Krea"
+          },
+          "url": "https://www.krea.ai/style/7jq7kge41/unlock?code=2AD01E17-E444"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/06_network/vrstmtoo-142-v06.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p06.webp",
+          "bg": "#120806",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Mushrooms growing from a glass cup",
+            "ru": "Грибы растут из стеклянной чашки"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v02.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p02.webp",
+          "bg": "#0E0610",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "A glowing pink cap with mycelium threads",
+            "ru": "Светящаяся розовая шляпка и нити грибницы"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/banner-announce-1920x1080-2x.webp",
+          "bg": "#0A0505",
+          "size": "wide",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Announcement: \"Alfa Design Network. We're all mushrooms\"",
+            "ru": "Анонс: «альфа дизайн нетворк. мы все грибы»"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v04.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p04.webp",
+          "bg": "#0B0914",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "A white mushroom in golden threads",
+            "ru": "Белый гриб в золотых нитях"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v05.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p05.webp",
+          "bg": "#100707",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "A red cluster on moss, glassy and soft",
+            "ru": "Красная гроздь на мху, стеклянная и мягкая"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v07.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p07.webp",
+          "bg": "#0E0909",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Tall pink stems, calm and quiet",
+            "ru": "Высокие розовые ножки, спокойно и тихо"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v03.mp4",
+          "poster": "content/06_network/vrstmtoo-142-p03.webp",
+          "bg": "#08070F",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Lavender mushrooms with glowing spores",
+            "ru": "Лавандовые грибы со светящимися спорами"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720
+        },
+        {
+          "src": "content/06_network/banner-announce-1080x1080-2x.webp",
+          "bg": "#0A0505",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Square announcement for the feed",
+            "ru": "Квадратный анонс для ленты"
+          },
+          "type": "image",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "src": "content/06_network/vrstmtoo-142-v01.mp4",
+          "bg": "#050303",
+          "size": "wide",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Animated announcement banner",
+            "ru": "Анимированный баннер анонса"
+          },
+          "type": "video",
+          "w": 1280,
+          "h": 720,
+          "poster": "content/06_network/vrstmtoo-142-v01-poster.webp"
+        },
+        {
+          "src": "content/06_network/process-lora-training-dataset-avatars.webp",
+          "bg": "#1E1E1E",
+          "size": "wide",
+          "grid": false,
+          "hero": 2,
+          "caption": {
+            "en": "LoRA dataset: mushrooms, flowers, porcelain corals",
+            "ru": "Датасет LoRA: грибы, цветы, фарфоровые кораллы"
+          },
+          "type": "image",
+          "w": 1503,
+          "h": 812
+        }
+      ],
+      "roleTitle": {
+        "en": "AI Creator",
+        "ru": "AI-креатор"
+      },
+      "id": "06_network"
+    },
+    {
+      "name": {
+        "en": "MTS × BHSAD · 2nd place",
+        "ru": "МТС × БВШД · 2-е место"
+      },
+      "order": 7,
+      "published": true,
+      "year": 2025,
+      "slug": "mts-devices",
+      "title": {
+        "en": "MTS × British Higher School of Design: Devices of the Future",
+        "ru": "МТС × Британская высшая школа дизайна: устройства будущего"
+      },
+      "oneLiner": {
+        "en": "Wearable communicators that grow from a flower.",
+        "ru": "Устройства связи, которые растут из цветка и носятся как украшение"
+      },
+      "role": {
+        "en": "MTS and the British Higher School of Design opened an AI contest with one question: how will connection change? I entered as a solo participant, and my answer was a phone you no longer hold: communication devices that grow from a flower and are worn like jewellery. Over 966 generations and two device lines I found the material and the light, invented five communicators with names and jobs in a person's life, and cut a 24-second film myself. The work took 2nd place.",
+        "ru": "МТС и Британская высшая школа дизайна открыли нейроконкурс с одним вопросом: как изменится связь? Я участвовал один, и моим ответом стал телефон, который больше не держат в руке: устройства связи, которые растут из цветка и носятся как украшение. За 966 генераций и две линейки устройств нашёл материал и свет, придумал пять коммуникаторов с именами и ролями в жизни человека и сам смонтировал ролик на 24 секунды. Работа заняла 2-е место."
+      },
+      "idea": {
+        "en": "A phone is cold glass we stare at all day. Here connection comes alive: a plant inside powers each device, and you wear it close to the body like jewellery.",
+        "ru": "Телефон это холодное стекло, в которое мы смотрим весь день. Здесь связь оживает: растение внутри питает устройство энергией, а носишь его у тела, как украшение."
+      },
+      "visual": {
+        "en": "Two generations, two moods. V1 is heavy and ancient, stone and moss with plants at the core. V2 is light as air, frosted glass with a flower inside and small red lights for MTS. Each device has a name, Aria, Indira, Lucia, Yana and Frana, because you'd wear it like something personal.",
+        "ru": "Два поколения, два настроения. V1 тяжёлые и древние: камень и мох, в ядре растения. V2 лёгкие, как воздух: матовое стекло, внутри цветок, маленькие красные огни для МТС. У каждого устройства есть имя (Ария, Индира, Лусия, Яна, Франа), потому что такую вещь носишь как что-то личное."
+      },
+      "process": {
+        "en": [
+          "The brief asked how connection will change and how to give MTS VoiceTech a persona. A phone stays cold glass in your hand, so my answer was a device you wear, alive inside and running on plant energy.",
+          "V1 came out raw and ancient, \"forged from the primal chaos of nature\": massive pendants, cuffs and cocoons of stone and moss with glowing cores. Beautiful as a world, too heavy to wear.",
+          "So V2 swung the other way, \"weightless and transparent\": frosted glass with a flower caught inside and small red lights for MTS.",
+          "966 generations later, five devices shared one material and one light. I named them Aria, Indira, Lucia, Yana and Frana and gave each a job: a voice twin that answers when you're busy, translation into 95 languages that keeps your intonation, a fraud filter.",
+          "The 24-second film opens with a flower and introduces the communicators one by one, like product cards. It took 2nd place."
+        ],
+        "ru": [
+          "В задании спрашивали, как изменится связь и как персонифицировать MTS VoiceTech. Телефон остаётся холодным стеклом в руке, поэтому я ответил устройством, которое носишь на теле: оно живое внутри и питается энергией растений",
+          "V1 вышли сырыми и древними, «выкованными из первозданного хаоса природы»: массивные кулоны, браслеты и коконы из камня и мха со светящимися ядрами. Как мир красиво, носить тяжело",
+          "Поэтому V2 качнулись в обратную сторону, «невесомы и прозрачны»: матовое стекло, внутри пойман цветок, маленькие красные огни для МТС",
+          "Через 966 генераций у пяти устройств были один материал и один свет. Назвал их Ария, Индира, Лусия, Яна и Франа и дал каждому работу: голосовой двойник отвечает, когда ты занят, переводчик говорит на 95 языках с твоей интонацией, фильтр ловит мошенников",
+          "Ролик на 24 секунды начинается с цветка и знакомит с коммуникаторами по очереди, как с продуктовыми карточками. Работа заняла 2-е место"
+        ]
+      },
+      "tools": [
+        "AI image generation",
+        "AI video"
+      ],
+      "toolsNote": {
+        "en": "AI: every device is a generation, 966 of them before the final set. No 3D. By hand: the concept and V1/V2 texts, selection, names and features, brand layouts and the edit.",
+        "ru": "AI: все устройства это генерации, 966 итераций до финального набора. 3D нет. Руками: концепция и тексты V1 и V2, отбор, имена и функции, вёрстка под бренд и монтаж."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Place in the contest",
+            "ru": "Место в конкурсе"
+          },
+          "value": "#2"
+        },
+        {
+          "label": {
+            "en": "Generations to the final result",
+            "ru": "Генераций до результата"
+          },
+          "value": "966"
+        },
+        {
+          "label": {
+            "en": "Communicators in the line",
+            "ru": "Коммуникаторов в линейке"
+          },
+          "value": "5"
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Competition entry",
+            "ru": "Конкурсная работа"
+          },
+          "url": "https://t.me/vrstmtoo/30"
+        },
+        {
+          "label": {
+            "en": "2nd place",
+            "ru": "2-е место"
+          },
+          "url": "https://t.me/vrstmtoo/29"
+        },
+        {
+          "label": {
+            "en": "Devices V1",
+            "ru": "Устройства V1"
+          },
+          "url": "https://t.me/vrstmtoo/10"
+        },
+        {
+          "label": {
+            "en": "Devices V2",
+            "ru": "Устройства V2"
+          },
+          "url": "https://t.me/vrstmtoo/19"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/07_mts-hackathon/mts-final-0226.mp4",
+          "bg": "#FDFDFD",
+          "size": "tall",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "The competition film: \"A revolution in connection\"",
+            "ru": "Конкурсный ролик «Революция в связи»"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280,
+          "poster": "content/07_mts-hackathon/mts-final-0226-poster.webp"
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-27.webp",
+          "bg": "#FFF4F2",
+          "size": "tall",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "No. 2 Indira: living light under frosted glass",
+            "ru": "№ 2 «Индира»: живой свет под матовым стеклом"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-25.webp",
+          "bg": "#FBF7F8",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "No. 1 Aria: a flower caught in the ring",
+            "ru": "№ 1 «Ария»: цветок внутри кольца"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-28.webp",
+          "bg": "#F1F1F0",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "No. 3 Lucia: a voice twin for busy moments",
+            "ru": "№ 3 «Лусия»: голосовой двойник, когда ты занят"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-30.webp",
+          "bg": "#FFFFFF",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "No. 5 Frana: live translation into 95 languages",
+            "ru": "№ 5 «Франа»: перевод на 95 языков"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-29.webp",
+          "bg": "#FBF8F8",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "No. 4 Yana: a pendant glowing from within",
+            "ru": "№ 4 «Яна»: кулон, светящийся изнутри"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/instagram-story-26.webp",
+          "bg": "#FFF6F3",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "It starts with a flower and runs on plants",
+            "ru": "Всё начинается с цветка: энергия растений"
+          },
+          "type": "image",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "src": "content/07_mts-hackathon/vrstmtoo-010-p01.webp",
+          "bg": "#ACBBA6",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "V1: stone and moss, plants at the core",
+            "ru": "V1: камень и мох, в ядре растения"
+          },
+          "type": "image",
+          "w": 446,
+          "h": 800
+        },
+        {
+          "src": "content/07_mts-hackathon/vrstmtoo-010-p03.webp",
+          "bg": "#3C3C3C",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "V1 cuff with moss and a glowing core",
+            "ru": "Браслет V1: мох и светящееся ядро"
+          },
+          "type": "image",
+          "w": 446,
+          "h": 800
+        },
+        {
+          "src": "content/07_mts-hackathon/vrstmtoo-010-p05.webp",
+          "bg": "#CECECE",
+          "size": "tall",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "V1 pendant with a red flower inside",
+            "ru": "Кулон V1 с красным цветком внутри"
+          },
+          "type": "image",
+          "w": 446,
+          "h": 800
+        }
+      ],
+      "roleTitle": {
+        "en": "Participant · 2nd place",
+        "ru": "Участник · 2-е место"
+      },
+      "id": "07_mts-hackathon"
+    },
+    {
+      "name": {
+        "en": "Mixed Media / EXPLE",
+        "ru": "Mixed Media / EXPLE"
+      },
+      "order": 8,
+      "published": true,
+      "year": 2025,
+      "slug": "mixed-media-exple",
+      "title": {
+        "en": "Mixed Media × EXPLE: Experimental People",
+        "ru": "Mixed Media × EXPLE: экспериментальные люди"
+      },
+      "oneLiner": {
+        "en": "There's no one right version, only a space of variations.",
+        "ru": "Нет одной правильной версии, есть пространство вариаций"
+      },
+      "role": {
+        "en": "EXPLE, a non-profit project about experimental people, found me in the last weeks of a mixed-media course and needed visual research. I took it on as creative and art director with one belief: an image has many lives, and none of them is the only right one. Photos and AI generations went through print, water, fire and scan again and again, until nobody could tell where the model ended and my hand began. All the portraits, signs and 8 animated loops are mine, and the research became both my final course project and the visual groundwork for EXPLE.",
+        "ru": "EXPLE, некоммерческий проект про экспериментальных людей, нашёл меня сам в последние недели курса по микс-медиа: проекту нужен был визуальный ресерч. Я взялся за него как креативный и арт-директор с одним убеждением: у картинки много жизней, и ни одна не единственно правильная. Фото и генерации ИИ снова и снова проходили через печать, воду, огонь и скан, пока уже не было видно, где кончается модель и начинается моя рука. Все портреты, знаки и 8 анимаций сделаны мной, а исследование стало и финальной работой курса, и визуальной основой EXPLE."
+      },
+      "idea": {
+        "en": "AI made the clean image cheap, so the hand became the thing worth keeping. Every image goes through screen, paper, water and fire until it stops being correct and starts being yours.",
+        "ru": "ИИ сделал чистую картинку дешёвой, и ценной стала рука. Каждое изображение проходит через экран, бумагу, воду и огонь, пока не перестаёт быть «правильным» и не становится твоим."
+      },
+      "visual": {
+        "en": "Bleached portraits, ultramarine silhouettes, people fading into white like a memory. The words EXPERIMENTAL PEOPLE get smeared, stretched and cut out letter by letter. Photo, AI, print and scan live in one frame, and then it all starts to move.",
+        "ru": "Высветленные портреты, ультрамариновые силуэты, люди, которые растворяются в белом, как воспоминание. Слова EXPERIMENTAL PEOPLE размазаны, растянуты, вырезаны по букве. Фото, ИИ, печать и скан живут в одном кадре, а потом всё это начинает двигаться."
+      },
+      "process": {
+        "en": [
+          "On day one I wrote down the thought that held the whole course together: now there's only a space of variations.",
+          "The second session ran four and a half hours with six techniques, and I didn't get through them all. The goal was 98 more pieces by Monday, so I went hunting for a colour printer in St Petersburg.",
+          "My phone turned into a sketchbook. Anything that made me feel something, a theatre show or a street at night, got reworked.",
+          "Then the loop: print, soak, burn, paint, scan, print again, up to about 29 rounds per piece. AI generations went through the same loop until you couldn't tell where the model ended and my hand began.",
+          "I spent a long time looking for a final project, and then it found me: EXPLE. Bleached portraits, ultramarine silhouettes, the words EXPERIMENTAL PEOPLE smeared and cut out letter by letter, and 8 short loops where faces blur and come back."
+        ],
+        "ru": [
+          "В первый день курса записал мысль, на которой всё держалось: теперь есть только пространство вариаций",
+          "Второе занятие шло 4,5 часа, 6 приёмов, и я не всё успел. Цель была сделать ещё 98 работ до понедельника, так что пошёл искать цветной принтер в Питере",
+          "Телефон стал скетчбуком. Если фото что-то задевало, спектакль или ночная улица, я его перерабатывал",
+          "Дальше петля: напечатать, намочить, поджечь, закрасить, отсканировать и снова напечатать, до 29 кругов на работу. Генерации ИИ шли в ту же петлю, пока уже не было видно, где кончается модель и начинается моя рука",
+          "Долго искал финальный проект, а потом он нашёл меня сам: EXPLE. Высветленные портреты, ультрамариновые силуэты, слова EXPERIMENTAL PEOPLE, размазанные и вырезанные по букве, и 8 коротких петель, где лица размываются и возвращаются"
+        ]
+      },
+      "tools": [
+        "Photoshop",
+        "Print & scan",
+        "Water, fire, paint, salt",
+        "AI generation",
+        "After Effects"
+      ],
+      "toolsNote": {
+        "en": "Mostly by hand: Photoshop, a colour printer, physical damage and a scanner. AI generations are one input layer that goes through the same loop. Loops animated in After Effects. No 3D.",
+        "ru": "В основном руками: Photoshop, цветной принтер, физическая порча и сканер. Генерации ИИ служат одним из входных слоёв, который проходит ту же петлю. Петли анимировал в After Effects. 3D нет."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Course sessions",
+            "ru": "Занятий курса"
+          },
+          "value": "12"
+        },
+        {
+          "label": {
+            "en": "Iterations per print",
+            "ru": "Итераций на отпечаток"
+          },
+          "value": "~29"
+        },
+        {
+          "label": {
+            "en": "Animated loops for EXPLE",
+            "ru": "Анимаций для EXPLE"
+          },
+          "value": "8"
+        }
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "EXPLE post",
+            "ru": "Пост EXPLE"
+          },
+          "url": "https://www.instagram.com/p/DPJPMypCF6N/"
+        },
+        {
+          "label": {
+            "en": "Final project",
+            "ru": "Финальный проект"
+          },
+          "url": "https://t.me/vrstmtoo/79"
+        },
+        {
+          "label": {
+            "en": "Print method",
+            "ru": "Метод «Печатай»"
+          },
+          "url": "https://t.me/vrstmtoo/132"
+        }
+      ],
+      "media": [
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v01.mp4",
+          "bg": "#F6F6F6",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "EXPLE: a portrait painted over with its name",
+            "ru": "EXPLE: портрет, закрашенный собственным именем"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v01-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v07.mp4",
+          "bg": "#EEF0FA",
+          "size": "square",
+          "grid": true,
+          "hero": 5,
+          "caption": {
+            "en": "Ultramarine figure under dissolving type",
+            "ru": "Ультрамариновая фигура под растворяющимся шрифтом"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v07-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v08.mp4",
+          "bg": "#FFFFFF",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "A face behind a mesh mask, black on white",
+            "ru": "Лицо за сетчатой маской, чёрное на белом"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v08-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v06.mp4",
+          "bg": "#FFFFFF",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "\"EXPLE people\": type stretched until it breaks",
+            "ru": "«EXPLE people»: шрифт растянут до разрыва"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v06-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v03.mp4",
+          "bg": "#F4F4F2",
+          "size": "square",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Hand-cut letters scattered on a cutting mat",
+            "ru": "Буквы, вырезанные вручную, на макетном коврике"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v03-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-079-v05.mp4",
+          "bg": "#FAFAFA",
+          "size": "square",
+          "grid": false,
+          "hero": 3,
+          "caption": {
+            "en": "Ghost figures fading into white",
+            "ru": "Фигуры-призраки уходят в белое"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 720,
+          "poster": "content/08_mixed-media/vrstmtoo-079-v05-poster.webp"
+        },
+        {
+          "src": "content/08_mixed-media/vrstmtoo-053-v02.mp4",
+          "bg": "#EEF1EE",
+          "size": "tall",
+          "grid": false,
+          "hero": 4,
+          "caption": {
+            "en": "Dancers turned into a hot red silhouette",
+            "ru": "Танцоры, превращённые в горячий красный силуэт"
+          },
+          "type": "video",
+          "w": 720,
+          "h": 1280,
+          "poster": "content/08_mixed-media/vrstmtoo-053-v02-poster.webp"
+        }
+      ],
+      "roleTitle": {
+        "en": "Creative & Art Director · AI Creator",
+        "ru": "Креативный и арт-директор · AI-креатор"
+      },
+      "id": "08_mixed-media"
+    }
+  ],
+  "home": {
+    "columns": []
+  },
+  "cutouts": [
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-serf-fioletovyy.webp",
+      "w": 700,
+      "h": 557
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-sticker-cluster-2x.webp",
+      "w": 692,
+      "h": 700
+    },
+    {
+      "case": "01_meetup3",
+      "src": "content/01_meetup3/cut-full.webp",
+      "w": 700,
+      "h": 675
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-meetup-d005-kv-364x400-19082026.webp",
+      "w": 616,
+      "h": 436
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-gemini-generated-image-1irphv1irphv1irp-1.webp",
+      "w": 700,
+      "h": 498
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-karabin.webp",
+      "w": 337,
+      "h": 700
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-sticker-map-mountain-2x.webp",
+      "w": 700,
+      "h": 526
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-smile0150-1.webp",
+      "w": 608,
+      "h": 629
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-meetup-d007-kv-364x400-19082026.webp",
+      "w": 700,
+      "h": 460
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-ochki.webp",
+      "w": 700,
+      "h": 408
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-camp-site-basecamp-d-promo2-364x260-270526.webp",
+      "w": 555,
+      "h": 378
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-molniya.webp",
+      "w": 404,
+      "h": 700
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-hackathon-d011-kv-364x274-05082026.webp",
+      "w": 678,
+      "h": 251
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-shnur.webp",
+      "w": 700,
+      "h": 263
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-sticker-promo-logo-2x.webp",
+      "w": 700,
+      "h": 367
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-group-2136139998.webp",
+      "w": 348,
+      "h": 700
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-meetup-d006-kv-364x400-19082026.webp",
+      "w": 642,
+      "h": 446
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-group-2136139995-1.webp",
+      "w": 338,
+      "h": 700
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-camp-site-basecamp-d-promo5-364x450-270526.webp",
+      "w": 558,
+      "h": 550
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-ctf-site-alfactf2026-tild6239-3664-4133-b936-326365376234-button0150-3.webp",
+      "w": 330,
+      "h": 313
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-hackathon-d007-kv-558x316-05082026.webp",
+      "w": 554,
+      "h": 372
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-ochki-1.webp",
+      "w": 700,
+      "h": 409
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-camp-site-basecamp-d-promo4-364x450-270526.webp",
+      "w": 593,
+      "h": 568
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-serf.webp",
+      "w": 700,
+      "h": 171
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-hackathon-d006-kv-752x275-05082026.webp",
+      "w": 631,
+      "h": 376
+    },
+    {
+      "case": "04_camp",
+      "src": "content/04_camp/cut-camp-site-basecamp-d-promo1-364x260-270526.webp",
+      "w": 592,
+      "h": 371
+    },
+    {
+      "case": "03_ctf",
+      "src": "content/03_ctf/cut-ctf-site-alfactf2026-tild3362-3530-4439-b630-646266316365-group-2136140042.webp",
+      "w": 700,
+      "h": 484
+    },
+    {
+      "case": "05_vibecoding",
+      "src": "content/05_vibecoding/cut-vibe-site-meetup-d004-kv-364x400-19082026.webp",
+      "w": 700,
+      "h": 444
+    },
+    {
+      "case": "01_meetup3",
+      "src": "content/01_meetup3/cut-meetup3-site-digital-1.webp",
+      "w": 491,
+      "h": 492
+    }
+  ]
+}

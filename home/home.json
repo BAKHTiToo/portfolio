@@ -1,0 +1,69 @@
+{
+  "_note": "Главная: по одному промо-баннеру на проект. Две колонки сверху вниз. h — высота плитки (px при ширине колонки ~510). video + poster — анимация; img — картинка. focus — object-position, zoom — увеличение кадра внутри плитки, logo — картинка поверх по центру. logoTop/logoW — положение и ширина логотипа. overlay — картинка поверх на всю плитку (как в креативе). ratio — пропорция плитки вместо h; label:false — без подписи. shiftY — сдвиг картинки/видео внутри плитки по вертикали.",
+  "columns": [
+    [
+      {
+        "case": "03_ctf",
+        "video": "home/ctf.mp4",
+        "poster": "home/ctf.jpg",
+        "bg": "#4A8FF0",
+        "focus": "50% 50%",
+        "zoom": 1.22,
+        "overlay": "home/ctf-overlay.webp",
+        "ratio": "1058 / 1962",
+        "label": false,
+        "shiftY": "-9%"
+      },
+      {
+        "case": "06_network",
+        "video": "home/network.mp4",
+        "poster": "home/network.jpg",
+        "bg": "#050505",
+        "h": 494
+      },
+      {
+        "case": "02_white-night",
+        "video": "home/white-night.mp4",
+        "poster": "home/white-night.jpg",
+        "bg": "#DCE2E6",
+        "h": 468,
+        "logo": "home/wn-logo.webp",
+        "logoW": "56%"
+      },
+      {
+        "case": "08_mixed-media",
+        "video": "home/exple.mp4",
+        "poster": "home/exple.jpg",
+        "bg": "#F1F4F7",
+        "h": 491
+      }
+    ],
+    [
+      {
+        "case": "04_camp",
+        "img": "home/camp.webp",
+        "bg": "#F2F0EA",
+        "ratio": "1 / 1"
+      },
+      {
+        "case": "05_vibecoding",
+        "video": "home/vibe.mp4",
+        "poster": "home/vibe.jpg",
+        "bg": "#1A0606",
+        "h": 510
+      },
+      {
+        "case": "01_meetup3",
+        "img": "home/punks.webp",
+        "bg": "#F6EEE6",
+        "h": 642
+      },
+      {
+        "case": "07_mts-hackathon",
+        "img": "home/mts.webp",
+        "bg": "#B9C6B2",
+        "h": 585
+      }
+    ]
+  ]
+}
