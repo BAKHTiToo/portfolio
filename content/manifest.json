@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T17:09:59.225Z",
+  "generated": "2026-10-05T09:48:24.451Z",
   "cases": [
     {
       "name": {
@@ -601,8 +601,8 @@
         "ru": "Хакеры любят экстрим: прошлогодний серф просто висит у них на карабине"
       },
       "role": {
-        "en": "The HR-brand team came to me with this year's Alfa CTF and three conditions: keep last year's surfing spirit, bring something new, and do it fast. As creative and art director, I pitched hackers as climbers, with last year's surfboard simply hanging off their carabiner because they've already moved past that peak. One small object covered the whole brief, and around it I generated the key scenes myself: tents slung between the Moscow City towers and a slackline above the city, all brought to life in Veo. From there the 3D team carried the carabiner onto banners, the site and merch.",
-        "ru": "Команда HR-бренда пришла ко мне с новым Альфа ЦТФ и тремя условиями: сохранить прошлогодний дух серфинга, принести новое и успеть быстро. Я был креативным и арт-директором и предложил образ: хакеры это альпинисты, а прошлогодний серф просто висит у них на карабине, потому что эту вершину они уже прошли. Один маленький предмет закрыл весь бриф, и вокруг него я сам сгенерировал ключевые сцены: палатки между башнями Москва-Сити и слеклайн над городом, всё оживлено в Veo. Дальше 3D-команда разнесла карабин на баннеры, сайт и мерч."
+        "en": "The HR-brand team came to me with this year's Alfa CTF and three conditions: keep last year's surfing spirit, bring something new, and do it fast. As creative and art director, I pitched hackers as climbers, with last year's surfboard simply hanging off their carabiner because they've already moved past that peak. One small object covered the whole brief, and around it I generated the key scenes myself: tents slung between the Moscow City towers and a slackline above the city, all brought to life as video: first drafts in Veo, finished in Seedance 2.0 and Kling. From there the 3D team carried the carabiner onto banners, the site and merch.",
+        "ru": "Команда HR-бренда пришла ко мне с новым Альфа ЦТФ и тремя условиями: сохранить прошлогодний дух серфинга, принести новое и успеть быстро. Я был креативным и арт-директором и предложил образ: хакеры это альпинисты, а прошлогодний серф просто висит у них на карабине, потому что эту вершину они уже прошли. Один маленький предмет закрыл весь бриф, и вокруг него я сам сгенерировал ключевые сцены: палатки между башнями Москва-Сити и слеклайн над городом, всё оживлено видео: первые черновики в Veo, до финала доведены в Seedance 2.0 и Kling. Дальше 3D-команда разнесла карабин на баннеры, сайт и мерч."
       },
       "idea": {
         "en": "Hackers are extreme people, and every year leaves its gear on their carabiner. The event never starts from zero, it just climbs higher.",
@@ -617,7 +617,7 @@
           "Three conditions: keep the past, bring something new, move fast. Before generating a single frame, I dictated a long stream of thoughts out loud and fed the model screenshots of everything the project already had.",
           "My first bold route was Dreamers, hackers as superheroes, next to Balancers and Secret Society. The idea needed to come down to earth, and gorpcore did it: after a tech meetup you can be in the Karelian mountains within a day, and cybersecurity takes the same nerve.",
           "A moodboard of Patagonia posters, climbers and keys on carabiners set the feeling. Then came round after round of 10–15 prompts and a lot of trial and error, until last year's surfboard with CTF on it hung off a carabiner. I sent it to the team with one question: \"Is this it?\"",
-          "It looked almost too simple, and it met every condition at once. So I put the hackers inside the story: tents slung between the Moscow City towers, developers with laptops on ropes, a slackline with the Alfa CTF flag. Veo brought the scenes to life, and the final clips went up on the screens at the event.",
+          "It looked almost too simple, and it met every condition at once. So I put the hackers inside the story: tents slung between the Moscow City towers, developers with laptops on ropes, a slackline with the Alfa CTF flag. The first video drafts were made in Veo, then Seedance 2.0 and Kling took them to the final, and the clips went up on the screens at the event.",
           "The carabiner grew into a world. Once the team approved it for the Telegram branding, I tied the whole channel up in one continuous rope that climbs to the logo and made a participant kit with sliders for sleep, vibe and hacking.",
           "The 3D team carried the object onto banners, the site and merch, and the identity got a memory: each year can leave something new on the carabiner."
         ],
@@ -638,6 +638,8 @@
         "Nano Banana Pro",
         "Whisper",
         "Veo",
+        "Seedance 2.0",
+        "Kling",
         "Upscayl",
         "Figma",
         "Blender + Claude Opus (epilogue)"
@@ -930,6 +932,10 @@
         "en": "Creative & Art Director · AI Creator",
         "ru": "Креативный и арт-директор · AI-креатор"
       },
+      "toolsNote": {
+        "en": "Video: the first drafts were made in Veo, then finished in Seedance 2.0 and Kling. Images: Nano Banana Pro. By hand: concept, selection, layouts and the final cut.",
+        "ru": "Видео: первые драфты сделаны в Veo, потом в Seedance 2.0 и Kling доведены до финала. Картинки: Nano Banana Pro. Руками: концепция, отбор, вёрстка и финальный монтаж."
+      },
       "id": "03_ctf"
     },
     {
@@ -982,12 +988,15 @@
       "tools": [
         "GPT Image",
         "Custom model (handmade posters)",
+        "Veo",
+        "Seedance 2.0",
+        "Kling",
         "Codex",
         "Figma"
       ],
       "toolsNote": {
-        "en": "AI: the master composition and every 3D object come from GPT Image, cleaned up and split by hand. The first route used a model I trained on handmade posters. By hand: concept, pitch, moodboards, selection, layouts and the sticker pack in Figma.",
-        "ru": "AI: мастер-композиция и все 3D-объекты: генерации GPT Image, почищенные и разобранные вручную. Первый заход на модели, которую я натренировал на хендмейд-постерах. Руками: концепция, питч, мудборды, отбор, вёрстка и стикерпак в Figma."
+        "en": "AI: the master composition and every 3D object come from GPT Image, cleaned up and split by hand. The first route used a model I trained on handmade posters. By hand: concept, pitch, moodboards, selection, layouts and the sticker pack in Figma. Video: the first drafts were made in Veo, then finished in Seedance 2.0 and Kling.",
+        "ru": "AI: мастер-композиция и все 3D-объекты: генерации GPT Image, почищенные и разобранные вручную. Первый заход на модели, которую я натренировал на хендмейд-постерах. Руками: концепция, питч, мудборды, отбор, вёрстка и стикерпак в Figma. Видео: первые драфты сделаны в Veo, потом в Seedance 2.0 и Kling доведены до финала."
       },
       "facts": [
         {
